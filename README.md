@@ -48,5 +48,5 @@ Presented at National Student Research Symposium, Kristu Jayanti University (202
 ## 📫 Contact
 
 📧 Email: sangavisundharajan@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/sangavisundarrajan  
+🔗 LinkedIn: https://www.linkedin.com/in/sangavi-sundarrajan
 🐙 GitHub: https://github.com/Sangavi11
