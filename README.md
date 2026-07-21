@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangavi S</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | Backend & AI/ML Enthusiast</h3>
+<h3 align="center">MCA graduate | Full-Stack Developer | Backend & AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Sangavi11">
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA student passionate about software development and real-world problem solving
+- 🎓 MCA graduate passionate about software development and real-world problem solving
 - 💻 Interested in **Full-Stack Development, Backend Development, AI / ML, and Cloud**
 - 🤖 Worked on **AI/ML and backend-focused projects**
 - 🛠️ Built projects using **React, Flask, Node.js, Express.js, MySQL, Python, and AI integrations**
