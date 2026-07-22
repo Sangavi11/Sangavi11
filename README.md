@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA graduate passionate about software development and real-world problem solving
+- 🎓 MCA Graduate passionate about software development and real-world problem solving
 - 💻 Interested in **Full-Stack Development, Backend Development, AI / ML, and Cloud**
 - 🤖 Worked on **AI/ML and backend-focused projects**
 - 🛠️ Built projects using **React, Flask, Node.js, Express.js, MySQL, Python, and AI integrations**
